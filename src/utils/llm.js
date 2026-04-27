@@ -1,4 +1,4 @@
-const DEEPSEEK_KEY = ''
+const DEEPSEEK_KEY = 'sk-fd59ba4f53954134ac48b08187b789b7'
 
 const SYSTEM_PROMPT = `你是一个"降欲分享"提炼助手。用户会分享一段关于降低某种欲望的实践经历，你需要提炼为JSON格式（不要markdown标记，纯JSON）：
 
